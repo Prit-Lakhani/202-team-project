@@ -1,4 +1,4 @@
-# Flight Management System by Team - 16
+# Airport Management System by Team - 16
 
 ## Team members:
 
